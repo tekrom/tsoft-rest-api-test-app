@@ -1,0 +1,210 @@
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Properties.Resources.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_100_percent.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_200_percent.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_elf.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\d3dcompiler_47.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\icudtl.dat
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libcef.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libEGL.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libGLESv2.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\LICENSE.txt
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\am.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ar.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bg.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bn.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ca.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\cs.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\da.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\de.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\el.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-GB.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-US.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es-419.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\et.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fa.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fil.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\gu.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\he.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hu.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\id.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\it.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ja.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\kn.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ko.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lt.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lv.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ml.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\mr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ms.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nb.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-BR.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-PT.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ro.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ru.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sk.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sv.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sw.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ta.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\te.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\th.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\tr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\uk.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\vi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-CN.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-TW.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\README.txt
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\resources.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\snapshot_blob.bin
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libEGL.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\v8_context_snapshot.bin
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.config
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EnvDTE.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\stdole.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.CopyComplete
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmDesk.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmLogin.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmUserInfo.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmParam.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmBase.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmDefinition.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\chrome_100_percent.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\chrome_200_percent.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\chrome_elf.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\d3dcompiler_47.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\icudtl.dat
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\libcef.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\libEGL.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\libGLESv2.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\LICENSE.txt
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\am.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ar.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\bg.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\bn.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ca.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\cs.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\da.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\de.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\el.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\en-GB.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\en-US.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\es-419.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\es.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\et.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\fa.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\fi.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\fil.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\fr.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\gu.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\he.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\hi.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\hr.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\hu.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\id.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\it.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ja.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\kn.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ko.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\lt.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\lv.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ml.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\mr.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ms.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\nb.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\nl.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\pl.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\pt-BR.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\pt-PT.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ro.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ru.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\sk.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\sl.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\sr.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\sv.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\sw.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\ta.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\te.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\th.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\tr.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\uk.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\vi.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\zh-CN.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\locales\zh-TW.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\README.txt
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\resources.pak
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\snapshot_blob.bin
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\swiftshader\libEGL.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\v8_context_snapshot.bin
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.config
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\RestSharp.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\EnvDTE.dll
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\RestSharp.xml
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmBase.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmDefinition.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmDesk.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmLogin.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmUserInfo.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.FrmParam.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Properties.Resources.resources
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.CopyComplete
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb

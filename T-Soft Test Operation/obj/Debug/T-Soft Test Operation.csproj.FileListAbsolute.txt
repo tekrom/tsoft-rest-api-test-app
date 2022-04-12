@@ -1,0 +1,347 @@
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.config
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form1.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Properties.Resources.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.GenerateResource.cache
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CopyComplete
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form2.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.BaseForm.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form3.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\SQLite.Designer.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EnvDTE.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\stdole.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.FormParam.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_100_percent.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_200_percent.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_elf.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\d3dcompiler_47.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\icudtl.dat
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libcef.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libEGL.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libGLESv2.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\LICENSE.txt
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\am.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ar.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bg.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bn.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ca.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\cs.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\da.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\de.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\el.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-GB.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-US.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es-419.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\et.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fa.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fi.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fil.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fr.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\gu.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\he.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hi.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hr.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hu.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\id.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\it.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ja.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\kn.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ko.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lt.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lv.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ml.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\mr.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ms.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nb.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nl.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pl.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-BR.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-PT.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ro.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ru.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sk.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sl.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sr.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sv.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sw.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ta.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\te.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\th.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\tr.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\uk.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\vi.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-CN.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-TW.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\README.txt
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\resources.pak
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\snapshot_blob.bin
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libEGL.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\v8_context_snapshot.bin
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.WebBrowser.resources
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.dll
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.xml
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.SuggestedBindingRedirects.cache
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_100_percent.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_200_percent.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_elf.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\d3dcompiler_47.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\icudtl.dat
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libcef.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libEGL.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libGLESv2.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\LICENSE.txt
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\am.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ar.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bg.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bn.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ca.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\cs.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\da.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\de.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\el.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-GB.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-US.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es-419.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\et.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fa.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fi.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fil.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fr.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\gu.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\he.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hi.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hr.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hu.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\id.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\it.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ja.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\kn.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ko.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lt.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lv.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ml.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\mr.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ms.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nb.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nl.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pl.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-BR.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-PT.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ro.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ru.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sk.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sl.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sr.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sv.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sw.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ta.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\te.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\th.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\tr.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\uk.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\vi.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-CN.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-TW.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\README.txt
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\resources.pak
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\snapshot_blob.bin
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libEGL.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libGLESv2.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\v8_context_snapshot.bin
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.exe
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.config
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\SQLite.Designer.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EnvDTE.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\stdole.dll
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.pdb
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.xml
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.AssemblyReference.cache
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.SuggestedBindingRedirects.cache
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.BaseForm.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form2.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form1.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form3.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.FormParam.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Properties.Resources.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.WebBrowser.resources
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.GenerateResource.cache
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CopyComplete
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
+\\Mac\AllFiles\Users\hasan\Projects\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.BaseForm.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form2.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form1.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Form3.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.FormParam.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.WebBrowser.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_100_percent.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_200_percent.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\chrome_elf.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\d3dcompiler_47.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\icudtl.dat
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libcef.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libEGL.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\libGLESv2.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\LICENSE.txt
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\am.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ar.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bg.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\bn.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ca.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\cs.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\da.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\de.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\el.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-GB.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\en-US.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es-419.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\es.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\et.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fa.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fil.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\fr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\gu.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\he.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\hu.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\id.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\it.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ja.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\kn.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ko.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lt.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\lv.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ml.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\mr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ms.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nb.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\nl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-BR.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\pt-PT.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ro.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ru.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sk.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sl.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sv.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\sw.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\ta.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\te.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\th.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\tr.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\uk.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\vi.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-CN.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\locales\zh-TW.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\README.txt
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\resources.pak
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\snapshot_blob.bin
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libEGL.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\v8_context_snapshot.bin
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.config
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EnvDTE.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\stdole.dll
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.Core.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\CefSharp.WinForms.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\RestSharp.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\System.Data.SQLite.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\bin\Debug\EntityFramework.xml
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T_Soft_Test_Operation.Properties.Resources.resources
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\T-Soft Test Operation\T-Soft Test Operation\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.csproj.CopyComplete
