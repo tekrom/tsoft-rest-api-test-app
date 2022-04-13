@@ -107,10 +107,9 @@ namespace TSoftRestApiTestApp
                 cmd.CommandType = CommandType.Text;
                 using (dr = cmd.ExecuteReader())
                 {
-                    Dictionary<string, object> dict = new Dictionary<string, object>();
-                    // dr.Read();
                     while (dr.Read())
                     {
+                        Dictionary<string, object> dict = new Dictionary<string, object>();
                         for (int i = 0; i < dr.FieldCount; i++)
                         {
                             dict.Add(dr.GetName(i), dr.GetValue(i));

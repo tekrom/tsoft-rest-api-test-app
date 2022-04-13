@@ -207,3 +207,7 @@ C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\De
 C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\TSoftRestApiTestApp.csproj.CopyComplete
 C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe
 C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.pdb
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.exe.manifest
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\bin\Debug\T-Soft Test Operation.application
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.exe.manifest
+C:\Users\hasan\source\repos\tsoft-rest-api-test-app\T-Soft Test Operation\obj\Debug\T-Soft Test Operation.application
