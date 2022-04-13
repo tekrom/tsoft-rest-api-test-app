@@ -28,10 +28,6 @@ namespace TSoftRestApiTestApp
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            //txtBxUrl.Text = "http://hasanarikan.1ticaret.com";
-            //txtBxUsr.Text = "admin";
-            //txtBxPss.Text = "Ts123456";
-
             FrmUserInfo frm3 = new FrmUserInfo();
             if (frm3.fetchDataByUrl(txtBxUrl.Text).Count > 0)
             {
